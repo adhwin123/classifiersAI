@@ -1,0 +1,6 @@
+Classifier, Best Training Score, Testing Score
+KNN, 0.93, 0.925
+Logistic Regression, 0.6066666666666667, 0.565
+Decision Tree, 0.9733333333333334, 0.995
+Random Forest, 0.9400000000000001, 0.95
+AdaBoost, 0.6266666666666667, 0.565
